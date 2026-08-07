@@ -136,3 +136,8 @@ This project is for **educational purposes only**. It demonstrates fundamental c
 ## License
 
 MIT
+
+## 🔗 More
+
+- Author: [@pop123-ux](https://github.com/pop123-ux)
+- Medium write-ups: [medium.com/@Pop123](https://medium.com/@Pop123)
